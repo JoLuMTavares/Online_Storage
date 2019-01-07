@@ -8,6 +8,9 @@ Before runing the project, the following modules must be installed:
     cookie-parser
     morgan
     
+Also the program MongoDB must be installed. This is important to store the data related to the products.
+Once the program is installed, a database should be created with a single table (name "Products", for example).
+    
 
 To execute this application, the following command must be executed on the Terminal: 
   node app.js
