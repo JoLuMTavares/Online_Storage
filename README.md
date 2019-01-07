@@ -1,4 +1,4 @@
-# Online_Storage
+# Online_Store
 Application that shows the list of products available to buy with the possibility to add, edit or remove a product. 
 
 Before runing the project, the following modules must be installed:
